@@ -4,3 +4,5 @@ const lname = "Sharma";
 console.log(fname + " " + lname);
 
 console.log(`Hello ${fname} ${lname}`);
+
+log("Hello " + fname + " " + lname);
